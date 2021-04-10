@@ -3,6 +3,8 @@ With the increased threat of car theft in the modern era, I decided to repurpose
 
 https://thomaschaplin.medium.com/track-your-android-location-remotely-via-sms-using-automation-with-tasker-6cb5e9bfd93d
 
+https://techigem.com/best-tasker-profiles/
+
 #### Demonstration:
 
 -------------------------------------------------------------------------------------------------------------------------------
