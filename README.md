@@ -2,7 +2,7 @@
 With the increased threat of car theft in the modern era, I decided to repurpose an old Android phone to become a car tracker. Using the 'Tasker' application, I had the ability to program this device to transmit it's current location via an API request. This solution offers a significant price advantage compared to similar methods whereby a constant mobile data (4G) connection is not required. 
 
 #### Demonstration:
-<img src="https://user-images.githubusercontent.com/36043248/114793644-b8670280-9d82-11eb-93c7-6d6941683c7c.jpg" width="300">
+<img src="https://user-images.githubusercontent.com/36043248/114797525-47781880-9d8b-11eb-9907-08a9b71042f1.jpg" width="300">
 
 -------------------------------------------------------------------------------------------------------------------------------
 
@@ -118,7 +118,7 @@ With the increased threat of car theft in the modern era, I decided to repurpose
 
 11. Both these profiles are now active. To demonstrate the first profile we made, we will simply text the keyword '!Location' from our personal phone to this device (one to be used as a Car Tracker equipped with Tasker). This car tracker device will transmit the current location of the vehicle along with the phone's battery level to notify the owner if the device is due to be charged.
 
-<img src="https://user-images.githubusercontent.com/36043248/114796172-2f52ca00-9d88-11eb-9db7-fb13a904ce4a.jpg" width="300">
+<img src="https://user-images.githubusercontent.com/36043248/114797525-47781880-9d8b-11eb-9907-08a9b71042f1.jpg" width="300">
 
 Extras:
 - Ensure all battery optimisations are switched of the device, this will prevent any issues with Tasker sending/receiving commands
