@@ -98,8 +98,7 @@ With the increased threat of car theft in the modern era, I decided to repurpose
 
 6. Click the '➕' button to add an action
 
-<img src="https://user-images.githubusercontent.com/36043248/114795486-8fe10780-9d86-11eb-8796-86ca9e5ce589.jpg" width="300">
-![Add Action](https://user-images.githubusercontent.com/36043248/114795807-62488e00-9d87-11eb-9597-658827ef107f.jpg)
+<img src="https://user-images.githubusercontent.com/36043248/114795807-62488e00-9d87-11eb-9597-658827ef107f.jpg" width="300">
 
 7. Select 'Phone' event
 
