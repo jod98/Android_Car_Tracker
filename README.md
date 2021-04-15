@@ -2,7 +2,6 @@
 With the increased threat of car theft in the modern era, I decided to repurpose an old Android phone to become a car tracker. Using the 'Tasker' application, I had the ability to program this device to transmit it's current location via an API request. This solution offers a significant price advantage compared to similar methods whereby a constant mobile data (4G) connection is not required. 
 
 #### Demonstration:
-![Demonstration](https://user-images.githubusercontent.com/36043248/114793644-b8670280-9d82-11eb-93c7-6d6941683c7c.jpg)
 <img src="https://user-images.githubusercontent.com/36043248/114793644-b8670280-9d82-11eb-93c7-6d6941683c7c.jpg" width="300">
 
 -------------------------------------------------------------------------------------------------------------------------------
