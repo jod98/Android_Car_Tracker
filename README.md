@@ -78,47 +78,48 @@ With the increased threat of car theft in the modern era, I decided to repurpose
 
 1. Create a profile by clicking on the '➕' button in the bottom right corner and selecting 'State'
 
-![Select State](https://user-images.githubusercontent.com/36043248/114795528-a71ff500-9d86-11eb-9418-1f8f275e6dc4.jpg)
+<img src="https://user-images.githubusercontent.com/36043248/114795528-a71ff500-9d86-11eb-9418-1f8f275e6dc4.jpg" width="300">
 
 2. Select 'Power' state
 
-![Select Power](https://user-images.githubusercontent.com/36043248/114795567-c159d300-9d86-11eb-96f8-9fdb42f46cd3.jpg)
+<img src="https://user-images.githubusercontent.com/36043248/114795567-c159d300-9d86-11eb-96f8-9fdb42f46cd3.jpg" width="300">
 
 3. Select 'Battery Level' option
 
-![Select Battery Level](https://user-images.githubusercontent.com/36043248/114795581-cc146800-9d86-11eb-80aa-7e7dcefc0f17.jpg)
+<img src="https://user-images.githubusercontent.com/36043248/114795581-cc146800-9d86-11eb-80aa-7e7dcefc0f17.jpg" width="300">
 
 4. Move the value to '10' for both the 'From' and 'To' sliders. This will allow us to automatically send an SMS once the battery perecentage of the phone reaches 10%
 
-![Select 10](https://user-images.githubusercontent.com/36043248/114795696-1a296b80-9d87-11eb-9315-d423797afaa2.jpg)
+<img src="https://user-images.githubusercontent.com/36043248/114795696-1a296b80-9d87-11eb-9315-d423797afaa2.jpg" width="300">
 
 5. Press the back button to return to 'Profiles' page where we will click 'New Task' and name it 'Low Battery Text'
 
-![Task Creation](https://user-images.githubusercontent.com/36043248/114795757-42b16580-9d87-11eb-982a-8e3874bc27f4.jpg)
+<img src="https://user-images.githubusercontent.com/36043248/114795757-42b16580-9d87-11eb-982a-8e3874bc27f4.jpg" width="300">
 
 6. Click the '➕' button to add an action
 
+<img src="https://user-images.githubusercontent.com/36043248/114795486-8fe10780-9d86-11eb-8796-86ca9e5ce589.jpg" width="300">
 ![Add Action](https://user-images.githubusercontent.com/36043248/114795807-62488e00-9d87-11eb-9597-658827ef107f.jpg)
 
 7. Select 'Phone' event
 
-![Select Phone Event](https://user-images.githubusercontent.com/36043248/114795851-7f7d5c80-9d87-11eb-8c10-8954c75912d2.jpg)
+<img src="https://user-images.githubusercontent.com/36043248/114795851-7f7d5c80-9d87-11eb-8c10-8954c75912d2.jpg" width="300">
 
 8. Select 'Send SMS'
 
-![Select Send SMS](https://user-images.githubusercontent.com/36043248/114795375-4bee0280-9d86-11eb-9efa-a3bcf8889b6b.jpg)
+<img src="https://user-images.githubusercontent.com/36043248/114795375-4bee0280-9d86-11eb-9efa-a3bcf8889b6b.jpg" width="300">
 
 9. Add the following to the 'Message' section. We will be sending details of the phone's battery percentage i.e. low battery warning
 
-![Edit Task](https://user-images.githubusercontent.com/36043248/114795940-afc4fb00-9d87-11eb-8064-78d73362e148.jpg)
+<img src="https://user-images.githubusercontent.com/36043248/114795940-afc4fb00-9d87-11eb-8064-78d73362e148.jpg" width="300">
 
 10. Press the back button to return to the 'Profiles' section where you can see we have successfully created our two profiles
 
-![Two Profiles](https://user-images.githubusercontent.com/36043248/114796039-d97e2200-9d87-11eb-82d6-84fc3a4ce707.jpg)
+<img src="https://user-images.githubusercontent.com/36043248/114796039-d97e2200-9d87-11eb-82d6-84fc3a4ce707.jpg" width="300">
 
 11. Both these profiles are now active. To demonstrate the first profile we made, we will simply text the keyword '!Location' from our personal phone to this device (one to be used as a Car Tracker equipped with Tasker). This car tracker device will transmit the current location of the vehicle along with the phone's battery level to notify the owner if the device is due to be charged.
 
-![Demonstration](https://user-images.githubusercontent.com/36043248/114796172-2f52ca00-9d88-11eb-9db7-fb13a904ce4a.jpg)
+<img src="https://user-images.githubusercontent.com/36043248/114796172-2f52ca00-9d88-11eb-9db7-fb13a904ce4a.jpg" width="300">
 
 Extras:
 - Ensure all battery optimisations are switched of the device, this will prevent any issues with Tasker sending/receiving commands
