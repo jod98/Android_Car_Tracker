@@ -11,7 +11,6 @@ With the increased threat of car theft in the modern era, I decided to repurpose
 1. Install/Buy 'Tasker' from the Google Play Store
 
 ![Install Tasker Play Store](https://user-images.githubusercontent.com/36043248/114793688-d9c7ee80-9d82-11eb-9549-cbef810d9226.jpg)
-<img src="https://user-images.githubusercontent.com/36043248/114793688-d9c7ee80-9d82-11eb-9549-cbef810d9226.jpg" width="48">
 
 2. Open Tasker application
 
