@@ -3,7 +3,7 @@ With the increased threat of car theft in the modern era, I decided to repurpose
 
 #### Demonstration:
 ![Demonstration](https://user-images.githubusercontent.com/36043248/114793644-b8670280-9d82-11eb-93c7-6d6941683c7c.jpg)
-<img src="https://user-images.githubusercontent.com/36043248/114793644-b8670280-9d82-11eb-93c7-6d6941683c7c.jpg" width="48">
+<img src="https://user-images.githubusercontent.com/36043248/114793644-b8670280-9d82-11eb-93c7-6d6941683c7c.jpg" width="300">
 
 -------------------------------------------------------------------------------------------------------------------------------
 
