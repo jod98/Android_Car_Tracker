@@ -121,7 +121,7 @@ With the increased threat of car theft in the modern era, I decided to repurpose
 <img src="https://user-images.githubusercontent.com/36043248/114797525-47781880-9d8b-11eb-9907-08a9b71042f1.jpg" width="300">
 
 Extras:
-- Ensure all battery optimisations are switched of the device, this will prevent any issues with Tasker sending/receiving commands
-- Personally, to avoid paying €20-€30 per month retrieving the device's location 24/7 using mobile data, I decided to use Tasker combined with a small credit balance of €5. If in the event I notice my vehicle has been stolen, I can simply send an SMS text to the device which is hardwired into the fusebox (constantly charging) and I receive the details of its current location via SMS (approx 30c per SMS). This solution is cheaper, more battery efficient and offers the same capabilities as the more expensive mobile data enabled option.
+- Ensure all battery optimisations are switched off on the device, this will prevent any issues with Tasker sending/receiving commands
+- Personally, to avoid paying €20-€30 per month retrieving the device's location 24/7 using mobile data, I decided to use Tasker combined with a small credit balance of €5. If in the event I notice my vehicle has been stolen, I can simply send an SMS text to the device which is hardwired into the fusebox (constantly charging) and I receive the details of its current location via SMS (approx 30c per SMS). This solution is cheaper, more power/battery efficient and offers the same capabilities as the more expensive mobile data enabled option.
 
 Reference: https://thomaschaplin.medium.com/track-your-android-location-remotely-via-sms-using-automation-with-tasker-6cb5e9bfd93d
